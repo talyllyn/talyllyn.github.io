@@ -14,7 +14,21 @@ body {
 	user-select: none; /* Chrome, Opera and Firefox */
 }
 
-body {
+
+h1 {
+	font-family: opensans;
+	color: white;
+	text-align: center;
+	font-size:35px;
+
+	position: fixed;
+	width: 90%;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	/*outline: 2px solid #555555;*/
+}
+p {
 	font-family: opensans;
 	color: white;
 	text-align: center;
