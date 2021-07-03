@@ -14,7 +14,7 @@ body {
 	user-select: none; /* Chrome, Opera and Firefox */
 }
 
-.prompt {
+body {
 	font-family: opensans;
 	color: white;
 	text-align: center;
