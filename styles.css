@@ -19,11 +19,13 @@ h1 {
 	font-family: opensans;
 	color: white;
 	font-size:35px;
+	text-align: center;
 }
 p {
 	font-family: opensans;
 	color: white;
 	font-size:25px;
+	text-align: center;
 }
 
 button {
@@ -32,14 +34,14 @@ button {
 	font-family: opensans;
 	text-align: center;
 	font-size: 25px;
-	padding: 10px 0px;
+	padding: 10px 10px;
 	color: white;
 
 	outline-style:none;
 	border:none;
 	cursor:pointer;
 
-	position:fixed;
+	/*position:fixed;
 	width:50%;
 	bottom : 10%;
 	left : 25%;
@@ -58,6 +60,9 @@ button {
 	touch-action: manipulation; 
 }
 
+nav {
+	text-align: center;
+}
 .button:hover {
   background-color: #5dc2f5;
 }
